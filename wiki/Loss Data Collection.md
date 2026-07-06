@@ -2,6 +2,8 @@
 tags: [data, collection, regulation, OPE]
 sources:
   - "[[raw/OPE.pdf]]"
+  - "[[raw/DIS60.pdf]]"
+  - "[[raw/DIS10_20260101_20240717.xlsx]]"
 created: 2026-07-02
 ---
 # Loss Data Collection
@@ -64,8 +66,20 @@ For every recorded operational loss event, the database must capture [[raw/OPE.p
 
 ---
 
+## 5. Pillar 3 Disclosure
+
+Historical loss data must be publicly disclosed under **Template OR1 – Historical losses** [[raw/DIS60.pdf#page=3]]. See [[Operational Risk Disclosure Templates]] for the full report layout. Key requirements:
+
+* **Scope**: Mandatory for all banks in BI Buckets 2 and 3 (regardless of whether their supervisor has set $ILM = 1$), and Bucket 1 banks approved to use internal loss data [[raw/DIS60.pdf#page=3]].
+* **Thresholds**: The template provides parallel sections for both the €20,000 and €100,000 loss event thresholds, reporting total losses net of recoveries, total number of losses, excluded amounts, and exclusion counts [[raw/DIS60.pdf#page=3-4]].
+* **10-Year History**: Loss amounts must be reported for each of the last 10 years (T through T-9), plus a 10-year average in column (k) [[raw/DIS60.pdf#page=3-4]].
+* **Narrative**: Banks must explain the rationale, in aggregate, for any new loss exclusions since the previous disclosure [[raw/DIS60.pdf#page=3]].
+
+---
+
 ## See Also
 
 * [[Standardised Measurement Approach]]
 * [[Internal Loss Multiplier]]
 * [[Operational Risk Event Categories]]
+* [[Operational Risk Disclosure Templates]]

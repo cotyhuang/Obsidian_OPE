@@ -3,6 +3,8 @@ tags: [regulation, capital, OPE]
 sources:
   - "[[raw/OPE.pdf]]"
   - "[[raw/NotebooklmSummaryOP.md]]"
+  - "[[raw/DIS60.pdf]]"
+  - "[[raw/DIS10_20260101_20240717.xlsx]]"
 created: 2026-07-02
 ---
 # Standardised Measurement Approach
@@ -47,6 +49,21 @@ The calculation is driven by three underlying regulatory metrics:
 
 ---
 
+## Pillar 3 Disclosure Requirements
+
+Under Basel III, banks are required to make annual public disclosures on operational risk through one qualitative table and three quantitative templates, defined in **DIS60 – Operational risk** [[raw/DIS60.pdf#page=3]]. See [[Operational Risk Disclosure Templates]] for the full report layouts extracted from the official BCBS workbook [[raw/DIS10_20260101_20240717.xlsx]].
+
+| Template | Name | Content | Scope |
+| :--- | :--- | :--- | :--- |
+| **Table ORA** | General qualitative information | Policies, frameworks, risk management structure, measurement systems, and risk mitigation/transfer approaches | All banks [[raw/DIS60.pdf#page=3]] |
+| **Template OR1** | Historical losses | 10-year operational loss history (at €20k and €100k thresholds), exclusions, and ILM usage details | Bucket 2 & 3 banks; Bucket 1 banks using internal loss data [[raw/DIS60.pdf#page=3]] |
+| **Template OR2** | Business indicator and subcomponents | BI and its three subcomponents (ILDC, SC, FC) with line-item detail for T, T-1, T-2 | All banks [[raw/DIS60.pdf#page=5]] |
+| **Template OR3** | Minimum required operational risk capital | BIC, ILM, ORC, and operational risk RWA | All banks [[raw/DIS60.pdf#page=7]] |
+
+All templates use a **fixed format** and are disclosed on an **annual** basis. Banks are expected to supplement quantitative disclosures with narrative commentary [[raw/DIS60.pdf#page=3]].
+
+---
+
 ## See Also
 
 * [[Business Indicator Calculation]]
@@ -54,3 +71,4 @@ The calculation is driven by three underlying regulatory metrics:
 * [[Internal Loss Multiplier]]
 * [[Loss Data Collection]]
 * [[Operational Risk Event Categories]]
+* [[Operational Risk Disclosure Templates]]

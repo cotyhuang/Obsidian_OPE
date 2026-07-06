@@ -2,6 +2,8 @@
 tags: [regulation, capital, math, OPE]
 sources:
   - "[[raw/OPE.pdf]]"
+  - "[[raw/DIS60.pdf]]"
+  - "[[raw/DIS10_20260101_20240717.xlsx]]"
 created: 2026-07-02
 ---
 # Business Indicator Calculation
@@ -65,9 +67,21 @@ According to section 10.3 of the regulatory standard, the following items **do n
 
 ---
 
+## Pillar 3 Disclosure
+
+The BI and all of its subcomponents must be publicly disclosed under **Template OR2 – Business indicator and subcomponents** [[raw/DIS60.pdf#page=5]]. See [[Operational Risk Disclosure Templates]] for the full report layout. Key requirements:
+
+* Banks must report each subcomponent (ILDC, SC, FC) and their line-items for the current year (T) and two prior years (T-1, T-2) [[raw/DIS60.pdf#page=5]].
+* All terms in the template use the same three-year averaging convention as the calculation formulas [[raw/DIS60.pdf#page=6]].
+* Banks with supervisory approval to exclude divested activities must separately disclose the BI gross of divested activities and the reduction amount (rows 6a, 6b) [[raw/DIS60.pdf#page=5]].
+* Banks are expected to supplement the template with narrative commentary explaining significant changes over the reporting period [[raw/DIS60.pdf#page=5]].
+
+---
+
 ## See Also
 
 * [[Standardised Measurement Approach]]
 * [[Business Indicator Component]]
 * [[Internal Loss Multiplier]]
 * [[Loss Data Collection]]
+* [[Operational Risk Disclosure Templates]]

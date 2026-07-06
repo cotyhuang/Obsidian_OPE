@@ -17,6 +17,7 @@ updated: 2026-07-02
 - [[Business Indicator Calculation]] — Calculation of the Business Indicator (BI) and its three components (Interest, Lease & Dividend; Services; Financial).
 - [[Business Indicator Component]] — Progressively weighted brackets of the BI to determine the Business Indicator Component (BIC).
 - [[Internal Loss Multiplier]] — Calculation of the ILM using historical operational loss data and its application to scale the BIC.
+- [[Operational Risk Disclosure Templates]] — Pillar 3 disclosure report layouts for operational risk (Table ORA, Templates OR1–OR3).
 - [[Basel OPE Principles]] — Basel Committee's Principles for Sound Management of Operational Risk.
 
 ---
@@ -60,3 +61,5 @@ All wiki content is distilled from raw materials in `raw/`:
 | [[raw/NotebooklmSummaryOP.md]] | High-level summary of Operational Risk definitions and Standardised Approach components. |
 | [[raw/BCBS_Principles_Operational_Resilience.txt]] | Basel Committee's official 7 principles for Operational Resilience (March 2021). |
 | [[raw/EU_DORA_Regulation_Summary.txt]] | Regulatory summary and pillars of the EU Digital Operational Resilience Act (DORA). |
+| [[raw/DIS60.pdf]] | BCBS Pillar 3 disclosure requirements for operational risk (Table ORA, Templates OR1–OR3). |
+| [[raw/DIS10_20260101_20240717.xlsx]] | Official BCBS disclosure workbook with all Pillar 3 report template layouts (DIS10–DIS85). |

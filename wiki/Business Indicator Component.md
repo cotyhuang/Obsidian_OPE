@@ -2,6 +2,8 @@
 tags: [regulation, capital, OPE]
 sources:
   - "[[raw/OPE.pdf]]"
+  - "[[raw/DIS60.pdf]]"
+  - "[[raw/DIS10_20260101_20240717.xlsx]]"
 created: 2026-07-02
 ---
 # Business Indicator Component
@@ -36,8 +38,20 @@ $$\text{Total BIC} = 0.12 + 4.35 + 0.90 = \text{€}5.37\text{ billion}$$
 
 ---
 
+## Pillar 3 Disclosure
+
+The BIC must be disclosed in two templates under the Basel III Pillar 3 framework. See [[Operational Risk Disclosure Templates]] for the full report layouts.
+
+* **Template OR2** (row 5): The BIC derived from the BI and marginal coefficients, reported alongside the full BI subcomponent breakdown [[raw/DIS60.pdf#page=5]].
+* **Template OR3** (row 1): The BIC used for calculating the minimum regulatory capital requirement for operational risk [[raw/DIS60.pdf#page=7]].
+
+These two values are linked: `[OR2:5/a]` equals `[OR3:1/a]` [[raw/DIS60.pdf#page=7]].
+
+---
+
 ## See Also
 
 * [[Standardised Measurement Approach]]
 * [[Business Indicator Calculation]]
 * [[Internal Loss Multiplier]]
+* [[Operational Risk Disclosure Templates]]
