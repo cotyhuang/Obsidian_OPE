@@ -1,0 +1,30 @@
+Digital Operational Resilience Act (DORA)
+Regulation (EU) 2022/2554
+Effective Date: 17 January 2025
+
+OVERVIEW
+DORA aims to consolidate and harmonize digital operational resilience rules for the EU financial sector. It ensures that all participants (banks, insurers, investment firms, and ICT providers) can withstand, respond to, and recover from ICT disruptions and cyberattacks.
+
+PILLAR 1: ICT RISK MANAGEMENT (Articles 5-16)
+- Financial entities must establish a robust, comprehensive ICT risk management framework.
+- The management body is responsible and accountable for managing ICT risks.
+- Entities must maintain security controls, identify critical assets, and minimize risk of outages.
+
+PILLAR 2: ICT-RELATED INCIDENT REPORTING (Articles 17-23)
+- Entities must establish consistent procedures for identifying, logging, and classifying ICT incidents.
+- Major ICT incidents must be reported to the supervisory competent authorities.
+- Standardized reporting includes initial warning, intermediate report, and final analysis.
+
+PILLAR 3: DIGITAL OPERATIONAL RESILIENCE TESTING (Articles 24-27)
+- Regular testing of ICT systems (e.g. vulnerability assessments, open source testing).
+- Annual testing required for all critical ICT systems.
+- Certain large, systemic financial entities must perform advanced Threat-Led Penetration Testing (TLPT) (red teaming) at least every 3 years.
+
+PILLAR 4: ICT THIRD-PARTY RISK MANAGEMENT (Articles 28-44)
+- Firms must perform thorough risk assessments on ICT third-party providers before signing contracts.
+- Maintain a Register of Information detailing all outsourcing contracts.
+- Critical third-party providers (e.g. major cloud platforms) will be directly supervised by European Supervisory Authorities.
+
+PILLAR 5: INFORMATION SHARING (Article 45)
+- Encourages voluntary sharing of cyber threat intelligence, vulnerabilities, and incident lessons among financial entities.
+- Sharing must occur in closed, trusted networks to ensure security and privacy.

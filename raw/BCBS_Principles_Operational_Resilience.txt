@@ -1,0 +1,29 @@
+Basel Committee on Banking Supervision (BCBS)
+Principles for Operational Resilience
+Issued: 31 March 2021
+
+INTRODUCTION
+1. Operational resilience is an outcome that benefits from the effective management of operational risk. 
+2. The Principles for Operational Resilience aim to strengthen banks' ability to withstand, adapt to, and recover from operational disruptions (such as cyber incidents, technology failures, pandemics, or natural disasters) that could impact critical operations and threaten financial stability.
+3. The framework assumes that operational disruptions will occur and shifts focus from preventing failures to ensuring tolerance for disruption is defined and maintained.
+
+PRINCIPLE 1: GOVERNANCE
+Banks should leverage their existing governance structure to establish, oversee and implement an effective operational resilience framework. The board of directors should review and approve the bank's operational resilience framework, including its tolerance for disruption for each critical operation.
+
+PRINCIPLE 2: OPERATIONAL RISK MANAGEMENT
+Banks should leverage their respective operational risk management functions to identify external and internal threats and vulnerabilities in their people, processes, systems and information on an ongoing basis. They should also evaluate their control environment.
+
+PRINCIPLE 3: BUSINESS CONTINUITY PLANNING AND TESTING
+Banks should have business continuity plans in place and conduct business continuity exercises under a range of severe but plausible scenarios. These plans should be designed to ensure the bank can continue to deliver critical operations.
+
+PRINCIPLE 4: MAPPING INTERCONNECTIONS AND INTERDEPENDENCIES
+Banks should identify and document the people, technology, processes, information, facilities, and third-party dependencies required to deliver the bank's critical operations.
+
+PRINCIPLE 5: THIRD-PARTY DEPENDENCY MANAGEMENT
+Banks should manage their dependencies on third-party providers. This includes robust due diligence, ongoing performance monitoring, concentration risk management, and formal exit strategies.
+
+PRINCIPLE 6: INCIDENT MANAGEMENT
+Banks should develop and implement response and recovery plans to manage operational incidents. This includes procedures to detect, analyze, escalate, and resolve incidents, as well as clear communication protocols.
+
+PRINCIPLE 7: ICT INCLUDING CYBER SECURITY
+Banks should ensure resilient information and communication technology (ICT) systems and maintain cyber security controls. Controls must be aligned with the bank's threat landscape and tested regularly.

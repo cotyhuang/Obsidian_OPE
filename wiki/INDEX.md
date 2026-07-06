@@ -58,3 +58,5 @@ All wiki content is distilled from raw materials in `raw/`:
 |---|---|
 | [[raw/OPE.pdf]] | BCBS regulatory standard for calculation of RWA for operational risk. |
 | [[raw/NotebooklmSummaryOP.md]] | High-level summary of Operational Risk definitions and Standardised Approach components. |
+| [[raw/BCBS_Principles_Operational_Resilience.txt]] | Basel Committee's official 7 principles for Operational Resilience (March 2021). |
+| [[raw/EU_DORA_Regulation_Summary.txt]] | Regulatory summary and pillars of the EU Digital Operational Resilience Act (DORA). |
