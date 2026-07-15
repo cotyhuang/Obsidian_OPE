@@ -26,12 +26,12 @@ Under the Basel III Pillar 3 framework (**DIS60 – Operational risk**), banks m
 
 Banks must describe [[raw/DIS60.pdf#page=3]]:
 
-| Item | Description |
-| :---: | :--- |
-| **(a)** | Policies, frameworks, and guidelines for the management of operational risk |
-| **(b)** | Structure and organisation of the operational risk management and control function |
-| **(c)** | Operational risk measurement system (systems and data used to estimate the capital charge) |
-| **(d)** | Scope and main context of the reporting framework on operational risk to executive management and the board |
+|  Item   | Description                                                                                                                      |
+| :-----: | :------------------------------------------------------------------------------------------------------------------------------- |
+| **(a)** | Policies, frameworks, and guidelines for the management of operational risk                                                      |
+| **(b)** | Structure and organisation of the operational risk management and control function                                               |
+| **(c)** | Operational risk measurement system (systems and data used to estimate the capital charge)                                       |
+| **(d)** | Scope and main context of the reporting framework on operational risk to executive management and the board                      |
 | **(e)** | Risk mitigation and risk transfer used in managing operational risk (policy-based mitigation, divestitures, controls, insurance) |
 
 ---
