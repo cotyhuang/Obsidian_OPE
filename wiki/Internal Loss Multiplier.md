@@ -157,11 +157,11 @@ Whether and how losses feed the ILM is disclosed in **rows 11–13** of Template
 
 *(Rows 6–10 repeat the above using the €100,000 threshold.)*
 
-| Row | Description | Value |
-| :---: | :--- | :---: |
-| **11** | Are losses used to calculate the ILM? (yes/no) | |
-| **12** | If "no" in row 11, is the exclusion due to non-compliance with minimum loss data standards? (yes/no) | |
-| **13** | Loss event threshold: €20,000 or €100,000 for the capital calculation | |
+|  Row   | Description                                                                                          | Value |
+| :----: | :--------------------------------------------------------------------------------------------------- | :---: |
+| **11** | Are losses used to calculate the ILM? (yes/no)                                                       |       |
+| **12** | If "no" in row 11, is the exclusion due to non-compliance with minimum loss data standards? (yes/no) |       |
+| **13** | Loss event threshold: €20,000 or €100,000 for the capital calculation                                |       |
 
 > [!note] National Discretion
 > Where national jurisdictions choose to exclude losses from the operational risk calculation, the ILM is set equal to one and disclosed accordingly [[raw/DIS60.pdf#page=8]]. Any resulting multipliers from non-compliance with data standards must be disclosed in OR3 row 2 with narrative [[raw/DIS60.pdf#page=4]].
